@@ -1,0 +1,16 @@
+[Unit]
+Description=PhotoStax
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+ExecStart=/usr/bin/python3 main.py
+KillSignal=SIGINT
+WorkingDirectory=/home/pi/ProtoStax_ePaper_Photo_Frame
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+User=pi
+
+[Install]
+WantedBy=multi-user.target
