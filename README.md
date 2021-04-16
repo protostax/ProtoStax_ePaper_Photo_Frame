@@ -64,7 +64,7 @@ available. Make sure your images are 4x6 aspect ratio (heightXwidth)
 and enjoy experimenting! Portrait photos are usually great and skin
 tone is done quite nicely with the red and black pixels.
 
-See the demo at - ![PhotoStax - ProtoStax Digital ePaper Photo Frame](https://youtu.be/au7Aw-QdY1A)
+See the demo at - ![PhotoStax - ProtoStax Digital ePaper Photo Frame](https://youtu.be/7F8UrLPdoIU)
 
 
 
