@@ -87,7 +87,7 @@ according to where you've installed it:
 
 ```
 WorkingDirectory=/home/pi/ProtoStax_ePaper_Photo_Frame
-``
+```
 
 
 2. Copy the photostax.service file into /etc/systemd/system as root:
